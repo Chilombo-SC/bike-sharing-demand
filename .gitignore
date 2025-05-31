@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+AutogluonModels/
+*.pkl
+*.csv
+__pycache__/
+submission.csv
